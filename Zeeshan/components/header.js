@@ -13,11 +13,11 @@ const Header =(proms) =>{
 };
 const styles ={
                 viewStyle:{
-                    backgroundColor:'#F8F8F8',
+                    backgroundColor:'#FF7F7',
                     justifyContent:'center',
                     alignItems:'center',
                     height:60,
-                    paddingTop:15,
+                    paddingTop:50,
                     shadowColor:'000',
                     shadowOffset:{width:0 , height:2},
                     shadow0pacity:0.2,
